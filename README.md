@@ -4,8 +4,7 @@
 
 ***The basic idea behind Collaborative filtering is :: 
 
-We can predict and recommend items to users based on the preference similarities
-There are basically 2 types of Collaborative filtering techniques:
+We can predict and recommend items to users based on the preference similarities. There are basically 2 types of Collaborative filtering techniques:
 
 * User-based Collaborative filtering
 * Content-based Collaboraive filtering
